@@ -1,0 +1,481 @@
+daily_screen_hours,low_mood_score_0to27,daily_notifications,fomo_1to10,avg_sleep_hours,life_satisfaction_1to10,self_esteem_1to10,loneliness_1to10,Age,social_comparison_1to10,night_time_use,occupation,most_used_platform,Gender,primary_purpose,wellbeing_band
+3.8,3,127,3,6.0,8,4,6,30,8,Often,Part-time employed,Reddit,Prefer not to say,Passing time/boredom,At-risk
+5.1,0,63,6,6.8,8,3,2,16,3,Sometimes,Student,Instagram,Female,Content creation,Moderate
+4.0,0,55,5,6.3,3,9,3,28,8,Every night,Student,Instagram,Female,Passing time/boredom,At-risk
+2.7,0,33,4,8.1,5,6,1,52,3,Sometimes,Full-time employed,Instagram,Male,Entertainment,Moderate
+6.5,0,47,6,6.9,8,4,5,32,9,Sometimes,Unemployed,Snapchat,Female,Connection with friends,At-risk
+4.1,5,155,2,6.6,8,6,5,19,8,Often,Full-time employed,X/Twitter,Male,Passing time/boredom,Moderate
+4.6,4,28,4,6.0,7,6,7,42,10,Sometimes,Unemployed,YouTube,Female,Entertainment,Good
+4.5,6,21,6,6.2,6,7,4,23,5,Never,Full-time employed,TikTok,Male,Entertainment,Moderate
+1.7,8,67,5,6.6,10,5,5,48,6,Never,Retired,X/Twitter,Female,Entertainment,Good
+2.1,5,50,5,6.8,8,5,7,33,1,Never,Part-time employed,YouTube,Male,News/information,Good
+2.1,2,65,4,7.3,7,6,6,26,3,Often,Self-employed,Instagram,Male,Entertainment,Moderate
+4.1,4,138,3,6.7,8,7,2,27,7,Every night,Student,X/Twitter,Female,Connection with friends,Moderate
+4.2,0,61,2,6.4,3,7,5,33,3,Sometimes,Part-time employed,YouTube,Male,Entertainment,Good
+0.5,5,9,1,7.4,7,10,6,33,6,Sometimes,Student,YouTube,Non-binary,Passing time/boredom,Good
+4.6,8,53,7,8.0,6,7,4,25,6,Sometimes,Student,Instagram,Male,Work/career,Moderate
+1.4,5,21,1,6.5,6,7,4,33,6,Often,Student,YouTube,Female,Connection with friends,Good
+3.1,13,59,5,7.4,7,9,6,41,6,Often,Student,Instagram,Male,Entertainment,Moderate
+3.2,0,36,5,6.1,9,8,6,37,2,Often,Student,Instagram,Female,Work/career,Moderate
+2.7,5,36,6,4.4,5,5,4,34,2,Every night,Full-time employed,YouTube,Female,Passing time/boredom,Moderate
+3.4,4,39,6,6.8,8,6,5,29,1,Never,Full-time employed,X/Twitter,Male,Entertainment,Moderate
+2.8,0,39,9,7.5,7,6,7,30,2,Often,Full-time employed,LinkedIn,Male,Passing time/boredom,Moderate
+5.7,0,77,8,6.9,5,5,4,34,5,Never,Student,YouTube,Male,Content creation,Moderate
+2.3,0,16,5,6.3,5,7,7,32,8,Every night,Student,YouTube,Female,News/information,Moderate
+5.6,0,68,6,5.4,4,6,8,35,7,Often,Full-time employed,TikTok,Female,Passing time/boredom,Moderate
+2.4,0,44,2,7.3,4,7,6,32,2,Often,Student,YouTube,Male,Passing time/boredom,Good
+6.5,8,82,10,5.7,7,4,5,34,6,Sometimes,Full-time employed,Snapchat,Male,Connection with friends,Good
+3.6,1,122,3,8.0,7,5,6,24,6,Sometimes,Part-time employed,X/Twitter,Female,Work/career,At-risk
+5.1,3,49,3,6.7,5,2,8,33,7,Often,Unemployed,X/Twitter,Male,Connection with friends,Moderate
+1.9,8,18,7,6.8,9,7,8,38,5,Often,Student,Reddit,Male,Entertainment,Good
+1.6,2,59,4,8.0,7,3,5,33,5,Sometimes,Part-time employed,YouTube,Female,Entertainment,Good
+5.2,1,97,5,7.4,9,4,6,15,9,Often,Full-time employed,Snapchat,Male,Connection with friends,At-risk
+4.9,0,40,6,5.6,5,4,8,33,7,Every night,Student,Snapchat,Female,Passing time/boredom,Moderate
+2.1,4,84,7,6.1,7,10,6,13,5,Every night,Full-time employed,TikTok,Male,Connection with friends,Moderate
+1.5,14,84,5,7.2,8,5,2,42,1,Sometimes,Self-employed,X/Twitter,Male,Content creation,Moderate
+2.0,8,33,2,7.4,8,8,3,33,4,Often,Student,LinkedIn,Female,Connection with friends,Good
+7.2,1,38,8,8.0,8,2,5,29,7,Sometimes,Student,Facebook,Female,News/information,Moderate
+2.8,1,63,4,6.3,6,4,5,45,3,Sometimes,Full-time employed,Instagram,Female,Entertainment,Moderate
+0.7,4,5,1,7.5,10,9,1,28,7,Often,Student,TikTok,Male,Content creation,Good
+3.6,2,74,7,5.9,5,7,4,30,7,Every night,Full-time employed,Instagram,Female,Connection with friends,Moderate
+3.2,0,32,1,6.3,8,6,2,26,3,Often,Student,TikTok,Female,Entertainment,Moderate
+2.2,8,43,6,7.7,9,6,6,45,4,Sometimes,Student,Instagram,Female,News/information,Good
+3.1,6,39,7,7.4,8,6,6,28,4,Never,Student,TikTok,Male,Connection with friends,Moderate
+1.8,1,26,3,7.4,8,8,2,34,1,Sometimes,Student,Facebook,Male,Connection with friends,Good
+1.2,4,25,4,8.1,7,5,3,30,6,Never,Student,Instagram,Female,Work/career,Good
+0.8,10,5,1,6.7,8,7,1,49,7,Often,Full-time employed,TikTok,Female,Entertainment,Moderate
+4.7,5,184,9,5.6,7,5,7,41,5,Never,Part-time employed,X/Twitter,Female,Connection with friends,Moderate
+3.2,4,58,1,6.7,5,8,4,24,7,Every night,Student,Instagram,Female,Entertainment,Moderate
+1.7,8,20,1,7.9,10,3,4,24,4,Often,Full-time employed,YouTube,Female,Connection with friends,Moderate
+8.0,0,40,3,4.8,6,4,9,13,7,Every night,Part-time employed,TikTok,Male,Connection with friends,At-risk
+2.9,0,40,7,5.7,6,6,4,15,5,Never,Full-time employed,TikTok,Non-binary,Entertainment,Good
+1.8,4,10,6,8.5,7,9,3,36,3,Sometimes,Self-employed,YouTube,Male,Passing time/boredom,Moderate
+4.9,0,20,2,6.5,6,6,6,20,4,Often,Unemployed,Reddit,Female,Connection with friends,Good
+4.2,1,75,2,7.0,9,4,4,32,5,Often,Student,LinkedIn,Male,Entertainment,Moderate
+2.4,0,13,3,8.5,9,8,4,22,1,Never,Full-time employed,Facebook,Male,Passing time/boredom,Moderate
+2.3,0,64,6,5.8,9,6,9,22,4,Often,Unemployed,TikTok,Female,Connection with friends,Moderate
+4.5,0,23,6,7.9,9,5,2,30,7,Sometimes,Student,YouTube,Female,Passing time/boredom,Moderate
+2.8,4,58,7,5.0,7,3,6,16,4,Every night,Part-time employed,Instagram,Female,Content creation,Moderate
+2.4,1,40,3,5.6,6,8,6,13,9,Every night,Self-employed,TikTok,Male,Content creation,Moderate
+1.9,5,25,5,7.4,5,4,5,30,5,Never,Student,YouTube,Female,Work/career,Good
+6.0,0,129,5,3.9,5,5,5,46,10,Every night,Full-time employed,YouTube,Male,Work/career,Moderate
+1.4,3,26,3,6.8,7,4,6,38,4,Sometimes,Full-time employed,Instagram,Female,Entertainment,Good
+0.3,10,5,3,9.5,8,5,3,33,4,Sometimes,Student,YouTube,Male,Content creation,Moderate
+4.0,2,48,4,8.5,6,5,3,26,6,Never,Student,Facebook,Male,Connection with friends,Moderate
+2.9,4,28,7,6.6,7,7,5,39,6,Every night,Full-time employed,TikTok,Female,Entertainment,Good
+3.1,0,125,6,6.6,9,4,5,38,3,Sometimes,Full-time employed,Instagram,Male,Content creation,Good
+3.3,4,17,5,7.2,5,5,4,13,5,Sometimes,Student,Reddit,Male,Entertainment,Moderate
+0.6,5,26,4,6.9,9,7,2,40,5,Every night,Student,X/Twitter,Female,Passing time/boredom,Good
+2.5,1,61,7,6.0,4,7,4,19,5,Often,Retired,Facebook,Female,Work/career,Moderate
+1.9,6,32,3,6.6,5,8,4,29,6,Sometimes,Part-time employed,TikTok,Male,News/information,Good
+2.3,5,13,2,7.3,9,5,5,20,4,Sometimes,Student,TikTok,Female,Content creation,Good
+2.6,2,22,5,7.0,8,6,3,32,8,Often,Full-time employed,TikTok,Female,Passing time/boredom,Good
+3.6,9,89,6,6.9,6,6,8,39,8,Often,Full-time employed,TikTok,Male,Entertainment,Moderate
+2.3,10,23,4,7.5,5,5,6,29,4,Sometimes,Part-time employed,Instagram,Female,Entertainment,Moderate
+5.3,2,26,3,4.1,4,4,5,39,3,Every night,Full-time employed,Facebook,Female,News/information,Moderate
+4.1,0,18,3,7.4,8,1,2,13,3,Often,Student,X/Twitter,Male,Connection with friends,Good
+1.9,1,52,4,6.4,9,6,3,33,4,Sometimes,Self-employed,YouTube,Male,Connection with friends,Good
+1.7,5,13,5,8.2,10,8,5,46,3,Sometimes,Student,TikTok,Male,Passing time/boredom,Moderate
+1.7,1,5,4,7.4,9,2,7,19,7,Often,Part-time employed,TikTok,Female,Content creation,Good
+2.4,6,21,7,8.5,10,5,2,48,3,Never,Full-time employed,X/Twitter,Male,News/information,Good
+1.5,5,69,1,8.1,7,6,2,22,6,Sometimes,Part-time employed,Facebook,Male,News/information,Good
+4.0,0,15,2,,2,8,1,42,5,Often,Unemployed,X/Twitter,Male,News/information,Moderate
+4.3,0,124,6,7.5,7,5,7,43,10,Often,Full-time employed,Facebook,Female,Connection with friends,Moderate
+1.7,7,5,4,5.1,6,5,6,35,7,Every night,Student,TikTok,Female,Entertainment,Moderate
+3.8,2,68,2,6.9,7,6,6,33,5,Often,Self-employed,TikTok,Female,Passing time/boredom,Moderate
+4.6,0,35,7,8.1,6,7,5,13,7,Sometimes,Full-time employed,YouTube,Male,Entertainment,At-risk
+6.1,0,93,6,5.9,6,6,7,30,3,Often,Student,Reddit,Female,News/information,Moderate
+2.6,5,56,2,7.8,6,8,4,29,5,Sometimes,Student,X/Twitter,Male,Passing time/boredom,Moderate
+4.8,0,16,6,5.3,6,5,1,24,4,Often,Full-time employed,LinkedIn,Female,Connection with friends,At-risk
+3.0,0,68,2,7.6,6,6,5,54,4,Sometimes,Full-time employed,Snapchat,Female,Connection with friends,Moderate
+1.1,7,10,4,8.5,8,6,1,30,2,Sometimes,Self-employed,Instagram,Male,News/information,Good
+6.2,3,84,9,6.7,8,4,7,13,6,Often,Full-time employed,YouTube,Male,Work/career,At-risk
+2.6,6,44,6,6.8,7,4,4,13,5,Often,Full-time employed,Instagram,Male,Content creation,Good
+2.7,4,44,5,7.5,5,8,3,13,1,Often,Student,Instagram,Male,News/information,Moderate
+3.7,2,121,6,7.0,7,7,8,29,8,Every night,Student,Instagram,Male,Connection with friends,At-risk
+1.3,7,6,2,4.8,10,8,2,32,5,Often,Student,Reddit,Male,Entertainment,Good
+1.0,11,22,1,7.5,10,9,2,13,6,Often,Full-time employed,Snapchat,Female,Passing time/boredom,Moderate
+0.4,0,5,1,6.8,7,9,2,43,4,Every night,Self-employed,Snapchat,Female,Work/career,Moderate
+3.4,0,12,7,7.3,8,5,3,30,8,Sometimes,Part-time employed,Instagram,Male,Entertainment,Moderate
+1.6,2,12,1,6.6,6,8,5,42,9,Sometimes,Unemployed,YouTube,Male,Entertainment,Good
+2.6,3,14,6,6.2,9,9,3,32,4,Every night,Part-time employed,YouTube,Female,Connection with friends,Moderate
+2.5,4,5,3,8.2,8,5,7,14,2,Never,Full-time employed,TikTok,Non-binary,Connection with friends,Moderate
+4.7,6,53,7,6.9,7,7,3,43,7,Sometimes,Full-time employed,Instagram,Male,Entertainment,Good
+7.2,1,51,8,8.0,8,3,8,13,10,Never,Self-employed,YouTube,Female,Entertainment,At-risk
+6.7,0,49,5,5.8,10,6,4,28,9,Often,Student,Instagram,Female,Entertainment,Moderate
+3.7,0,15,4,7.1,8,6,2,22,4,Sometimes,Retired,TikTok,Female,News/information,Good
+3.6,0,149,6,,7,3,1,29,3,Every night,Full-time employed,X/Twitter,Non-binary,Entertainment,Moderate
+4.0,9,42,4,6.8,9,5,6,25,5,Sometimes,Full-time employed,X/Twitter,Male,Entertainment,Moderate
+1.9,5,52,3,6.8,8,7,4,24,6,Often,Full-time employed,TikTok,Female,Passing time/boredom,Moderate
+3.7,5,76,5,7.3,6,4,5,26,4,Sometimes,Part-time employed,X/Twitter,Male,Entertainment,At-risk
+2.9,0,57,4,4.7,8,6,5,13,5,Every night,Student,TikTok,Male,Entertainment,Moderate
+1.8,4,24,5,7.1,8,6,4,39,6,Every night,Unemployed,LinkedIn,Male,Content creation,Moderate
+1.8,6,17,4,7.2,9,5,2,36,8,Often,Retired,Instagram,Male,Connection with friends,Moderate
+1.2,4,67,9,7.5,4,6,2,17,6,Never,Full-time employed,Instagram,Female,Work/career,Good
+4.7,0,85,5,6.1,4,9,9,13,5,Every night,Full-time employed,Reddit,Male,Passing time/boredom,Good
+1.7,5,12,3,7.9,9,7,6,20,6,Sometimes,Unemployed,YouTube,Female,Passing time/boredom,Good
+5.3,0,41,5,7.1,6,5,7,24,8,Often,Full-time employed,Snapchat,Male,Connection with friends,At-risk
+4.8,0,5,7,7.3,8,4,5,17,5,Sometimes,Unemployed,Instagram,Male,Content creation,At-risk
+3.1,8,38,6,6.8,7,9,6,15,6,Often,Part-time employed,Snapchat,Female,Entertainment,Moderate
+3.2,6,53,1,5.6,5,5,5,28,6,Every night,Unemployed,Reddit,Female,Passing time/boredom,Good
+2.6,4,70,1,8.1,7,7,5,29,3,Never,Student,TikTok,Male,News/information,Moderate
+3.0,4,32,5,6.8,9,5,4,41,5,Never,Full-time employed,TikTok,Female,Connection with friends,Moderate
+5.0,0,70,6,5.8,6,5,4,58,5,Sometimes,Retired,TikTok,Female,Passing time/boredom,Moderate
+4.8,2,137,8,5.6,9,5,5,22,5,Often,Self-employed,X/Twitter,Male,News/information,Moderate
+7.3,0,140,6,5.7,7,4,5,46,6,Every night,Full-time employed,YouTube,Female,Connection with friends,Moderate
+1.3,6,38,5,8.1,10,6,4,44,5,Sometimes,Full-time employed,YouTube,Female,Entertainment,Good
+3.1,6,59,5,6.6,6,7,5,33,1,Sometimes,Student,Instagram,Female,Content creation,Moderate
+1.4,7,35,2,7.0,9,6,2,20,7,Sometimes,Full-time employed,Snapchat,Male,News/information,Good
+1.6,0,26,4,7.1,9,8,3,34,2,Often,Full-time employed,Instagram,Female,Connection with friends,Good
+5.6,3,66,4,6.7,7,5,6,14,8,Often,Full-time employed,Instagram,Non-binary,News/information,Moderate
+4.7,4,44,6,6.3,7,4,1,36,8,Sometimes,Full-time employed,YouTube,Non-binary,News/information,Moderate
+2.4,1,22,6,7.4,9,4,6,26,5,Sometimes,Student,YouTube,Male,Connection with friends,Good
+3.9,8,127,4,7.3,7,8,7,20,6,Sometimes,Part-time employed,Reddit,Female,Entertainment,Good
+1.1,4,6,5,6.5,6,4,1,24,7,Every night,Retired,YouTube,Male,Entertainment,Moderate
+1.0,15,22,5,8.1,8,3,4,13,4,Sometimes,Retired,LinkedIn,Male,Entertainment,Moderate
+1.7,1,23,4,6.8,6,8,1,13,3,Often,Student,Reddit,Female,Connection with friends,Good
+1.2,3,14,6,8.3,9,4,2,33,1,Sometimes,Full-time employed,TikTok,Non-binary,Content creation,Good
+5.0,0,21,3,5.2,5,5,6,29,4,Every night,Unemployed,TikTok,Non-binary,News/information,Moderate
+3.6,4,37,3,5.1,7,10,6,37,6,Every night,Student,Instagram,Female,Passing time/boredom,Moderate
+1.1,9,7,6,5.3,9,10,3,24,7,Every night,Full-time employed,X/Twitter,Female,Entertainment,Good
+4.7,3,177,4,6.5,5,3,5,20,8,Often,Full-time employed,TikTok,Non-binary,Connection with friends,Moderate
+2.0,8,16,4,6.0,6,7,5,13,6,Often,Self-employed,LinkedIn,Male,Connection with friends,Moderate
+1.0,2,8,4,7.4,7,7,2,28,5,Sometimes,Unemployed,Instagram,Female,Passing time/boredom,Good
+1.0,6,48,7,6.5,8,6,1,16,6,Often,Student,Reddit,Male,Connection with friends,Good
+3.9,3,143,5,7.5,8,9,6,21,7,Never,Student,TikTok,Female,Entertainment,Good
+4.2,0,47,7,6.3,6,6,3,37,8,Often,Student,TikTok,Female,Connection with friends,Moderate
+1.9,2,28,2,6.2,6,7,4,34,4,Often,Student,LinkedIn,Male,Entertainment,Moderate
+1.3,1,12,4,7.5,9,8,4,26,1,Every night,Full-time employed,Facebook,Female,Entertainment,Moderate
+4.8,0,131,6,5.8,6,7,6,18,6,Never,Unemployed,Facebook,Male,Entertainment,At-risk
+6.9,0,92,6,8.0,8,6,6,33,7,Often,Full-time employed,Instagram,Female,Entertainment,At-risk
+0.7,2,22,2,6.2,8,6,6,42,3,Often,Full-time employed,Snapchat,Male,Connection with friends,Good
+3.3,0,34,5,7.0,6,5,2,29,9,Sometimes,Full-time employed,Instagram,Male,Passing time/boredom,Good
+2.3,0,84,4,7.2,7,8,1,43,6,Often,Full-time employed,YouTube,Female,News/information,At-risk
+1.7,6,51,7,8.5,9,5,2,34,7,Sometimes,Unemployed,Instagram,Female,News/information,Good
+0.6,7,24,4,9.1,9,7,6,45,4,Sometimes,Full-time employed,Snapchat,Female,Connection with friends,Moderate
+1.3,8,8,4,7.0,7,7,3,28,4,Sometimes,Student,YouTube,Female,Work/career,Good
+4.0,8,64,2,6.5,6,5,5,32,5,Sometimes,Student,Instagram,Male,Connection with friends,At-risk
+4.7,0,40,9,6.6,8,9,6,13,5,Often,Part-time employed,Facebook,Female,Passing time/boredom,Moderate
+2.2,6,22,5,7.0,10,9,2,35,5,Often,Full-time employed,YouTube,Male,Connection with friends,Moderate
+5.4,3,12,7,6.1,4,7,4,54,3,Often,Unemployed,TikTok,Male,Connection with friends,At-risk
+7.2,0,68,7,5.1,5,2,4,29,4,Often,Self-employed,Snapchat,Female,News/information,Moderate
+2.9,0,68,7,6.8,7,6,4,37,7,Every night,Unemployed,Reddit,Male,Entertainment,Moderate
+5.1,0,54,5,5.8,6,5,6,39,7,Every night,Full-time employed,TikTok,Female,Content creation,At-risk
+1.8,3,19,5,7.2,10,7,2,49,4,Every night,Part-time employed,YouTube,Male,Entertainment,Good
+8.9,0,183,4,4.7,6,7,5,13,5,Every night,Student,LinkedIn,Non-binary,Passing time/boredom,At-risk
+1.3,9,28,7,7.8,10,7,3,19,4,Often,Student,Instagram,Female,Connection with friends,Moderate
+3.4,5,186,4,6.4,5,8,5,37,5,Often,Student,TikTok,Male,Passing time/boredom,Moderate
+5.7,2,64,7,6.0,7,5,4,23,9,Sometimes,Student,Instagram,Male,Entertainment,At-risk
+5.0,4,77,4,4.8,7,4,5,17,7,Often,Full-time employed,TikTok,Female,Entertainment,At-risk
+5.7,0,91,5,5.9,7,5,10,17,5,Every night,Full-time employed,TikTok,Female,Work/career,Moderate
+1.1,0,12,4,8.4,9,10,5,26,2,Often,Full-time employed,YouTube,Female,Entertainment,Moderate
+2.3,3,34,5,7.5,7,7,5,39,5,Sometimes,Student,YouTube,Male,Passing time/boredom,Good
+2.9,6,28,6,6.2,6,6,6,18,6,Every night,Full-time employed,TikTok,Prefer not to say,Entertainment,Good
+4.7,0,86,8,8.0,6,10,5,38,6,Often,Student,TikTok,Non-binary,Entertainment,At-risk
+1.1,12,13,4,6.5,4,10,2,39,6,Every night,Self-employed,Instagram,Male,Entertainment,Moderate
+2.6,13,30,7,8.0,5,8,2,18,1,Sometimes,Full-time employed,Instagram,Male,Entertainment,Moderate
+4.9,0,79,5,7.3,9,7,6,25,4,Sometimes,Student,YouTube,Male,Entertainment,Good
+1.1,13,16,7,7.0,6,6,8,37,5,Sometimes,Student,TikTok,Female,Entertainment,Moderate
+3.1,2,18,7,6.6,6,4,3,29,7,Never,Student,Instagram,Female,Connection with friends,Moderate
+1.5,1,15,4,,9,6,4,30,5,Often,Self-employed,TikTok,Male,Connection with friends,Moderate
+1.1,2,26,2,7.0,7,8,1,30,8,Sometimes,Student,YouTube,Female,Work/career,Good
+2.9,9,72,4,8.0,8,6,5,22,4,Never,Student,X/Twitter,Female,News/information,Good
+0.7,10,23,6,8.1,7,7,4,34,1,Never,Full-time employed,X/Twitter,Female,Entertainment,Moderate
+3.2,12,14,7,7.3,8,7,3,29,4,Often,Full-time employed,YouTube,Female,Entertainment,Moderate
+3.5,6,142,5,6.5,6,6,5,40,9,Sometimes,Full-time employed,X/Twitter,Male,Content creation,At-risk
+0.8,10,18,6,8.2,8,5,2,26,5,Never,Full-time employed,Instagram,Male,Entertainment,Moderate
+2.3,7,19,3,7.0,7,9,4,35,4,Sometimes,Student,YouTube,Female,Entertainment,Good
+2.4,2,21,2,7.2,8,7,4,36,8,Sometimes,Retired,LinkedIn,Female,Entertainment,Moderate
+6.5,5,347,7,7.7,7,7,8,33,9,Sometimes,Student,TikTok,Male,Entertainment,At-risk
+6.5,0,175,5,5.2,6,5,6,15,6,Every night,Full-time employed,Instagram,Female,Entertainment,Moderate
+3.7,0,9,8,6.1,6,4,3,25,5,Every night,Unemployed,Snapchat,Male,Connection with friends,At-risk
+1.3,5,19,2,7.7,8,3,5,30,1,Every night,Self-employed,Instagram,Female,Connection with friends,Moderate
+4.0,11,50,7,6.0,7,3,5,34,3,Every night,Student,YouTube,Female,Work/career,Moderate
+2.0,0,39,8,6.9,10,7,5,37,3,Sometimes,Student,X/Twitter,Female,Work/career,Good
+8.2,0,130,7,5.3,4,5,9,37,8,Every night,Part-time employed,Instagram,Female,Connection with friends,At-risk
+2.6,0,38,5,7.6,7,8,4,17,5,Often,Student,Instagram,Male,Entertainment,Good
+3.8,3,87,7,6.1,8,6,8,27,6,Every night,Full-time employed,Instagram,Female,Passing time/boredom,Moderate
+2.0,0,69,1,6.9,8,5,5,41,3,Often,Student,TikTok,Female,Entertainment,Good
+6.4,0,129,7,5.8,5,6,5,35,5,Often,Student,YouTube,Male,Passing time/boredom,Moderate
+1.2,7,5,2,5.9,8,8,3,26,5,Often,Retired,Facebook,Female,Entertainment,Moderate
+4.2,0,70,3,7.5,8,4,6,30,3,Sometimes,Student,YouTube,Female,Entertainment,At-risk
+2.5,7,22,8,7.3,8,6,8,49,4,Sometimes,Student,Snapchat,Female,Connection with friends,Good
+2.6,8,30,4,7.0,7,5,2,20,6,Often,Student,TikTok,Female,Passing time/boredom,At-risk
+4.0,0,55,8,6.4,7,5,7,28,3,Every night,Student,Instagram,Female,Content creation,At-risk
+7.4,0,185,9,6.8,9,4,3,25,5,Sometimes,Part-time employed,Snapchat,Female,Entertainment,Moderate
+2.7,5,73,8,6.2,7,8,6,29,5,Every night,Full-time employed,YouTube,Female,Content creation,Moderate
+2.6,10,46,5,7.0,6,5,4,34,6,Often,Unemployed,Instagram,Female,Content creation,Moderate
+7.1,0,78,3,5.0,7,5,6,14,3,Often,Self-employed,TikTok,Male,Entertainment,At-risk
+4.0,1,57,10,7.0,10,9,4,29,5,Sometimes,Part-time employed,Instagram,Male,Connection with friends,At-risk
+0.8,3,6,1,7.0,10,6,6,34,5,Often,Retired,Facebook,Female,Connection with friends,Good
+4.5,4,133,5,7.1,7,10,3,46,4,Never,Student,Instagram,Female,Passing time/boredom,Moderate
+2.5,1,56,1,8.4,9,7,1,25,7,Sometimes,Full-time employed,TikTok,Female,Entertainment,Good
+0.7,0,11,4,7.7,10,9,1,29,2,Often,Part-time employed,TikTok,Female,News/information,Good
+2.4,9,50,2,6.9,6,4,3,37,4,Never,Full-time employed,TikTok,Male,Entertainment,Moderate
+1.6,7,19,7,7.7,8,6,3,13,6,Sometimes,Student,TikTok,Female,Entertainment,Good
+1.6,6,19,3,7.4,8,4,5,28,5,Sometimes,Part-time employed,TikTok,Male,Entertainment,Good
+1.7,2,32,5,8.3,10,8,8,13,5,Sometimes,Full-time employed,LinkedIn,Male,Passing time/boredom,Good
+1.1,7,5,3,6.7,6,9,8,30,4,Often,Full-time employed,TikTok,Male,Passing time/boredom,Moderate
+2.4,7,52,4,7.8,6,9,3,46,4,Never,Part-time employed,Facebook,Male,News/information,Good
+3.8,0,67,8,6.6,9,5,8,43,6,Every night,Student,YouTube,Female,Passing time/boredom,Moderate
+3.0,2,148,6,6.8,9,5,7,49,3,Sometimes,Student,TikTok,Female,Entertainment,Moderate
+3.2,2,95,1,7.1,6,7,5,27,5,Sometimes,Unemployed,TikTok,Female,Entertainment,Moderate
+1.4,0,60,4,7.5,8,8,1,41,4,Often,Student,Instagram,Male,News/information,Moderate
+1.1,11,16,1,7.5,5,7,1,13,4,Never,Part-time employed,TikTok,Female,Passing time/boredom,Moderate
+1.8,9,6,1,6.1,9,5,4,15,3,Every night,Full-time employed,Facebook,Male,Connection with friends,Good
+5.7,3,259,6,7.4,6,4,1,31,4,Sometimes,Part-time employed,LinkedIn,Female,Passing time/boredom,Moderate
+5.8,5,81,7,7.1,8,8,3,26,7,Often,Full-time employed,YouTube,Female,Entertainment,Moderate
+4.3,0,61,5,5.5,8,5,5,49,6,Sometimes,Student,YouTube,Male,Passing time/boredom,Good
+5.0,0,172,3,6.6,9,7,4,51,10,Every night,Part-time employed,Reddit,Female,News/information,Moderate
+1.9,8,29,4,8.3,7,6,1,41,4,Never,Part-time employed,TikTok,Male,Entertainment,Good
+6.4,2,94,5,6.7,3,6,5,13,7,Sometimes,Full-time employed,Reddit,Male,Work/career,Moderate
+7.1,0,57,5,5.9,5,3,2,35,8,Often,Full-time employed,YouTube,Male,Entertainment,Moderate
+4.7,0,61,7,5.7,5,5,5,27,3,Often,Unemployed,TikTok,Female,Entertainment,At-risk
+4.8,11,56,9,7.2,6,7,5,13,4,Sometimes,Full-time employed,Snapchat,Male,Entertainment,Moderate
+2.6,6,63,2,6.4,8,8,3,29,4,Every night,Student,Instagram,Female,Connection with friends,Moderate
+3.0,10,36,6,7.0,9,8,4,22,2,Sometimes,Student,YouTube,Female,Connection with friends,Moderate
+8.9,0,224,6,6.2,5,4,6,29,6,Often,Full-time employed,Snapchat,Male,Entertainment,At-risk
+5.4,2,112,5,5.1,5,4,2,32,9,Often,Full-time employed,TikTok,Male,Entertainment,Moderate
+1.4,1,21,1,6.9,5,6,2,33,3,Sometimes,Student,TikTok,Female,Entertainment,Good
+1.4,4,36,4,6.9,10,8,5,35,4,Sometimes,Self-employed,TikTok,Male,Entertainment,Good
+6.6,8,131,6,6.7,5,4,7,30,6,Often,Student,TikTok,Female,Connection with friends,At-risk
+4.4,4,123,6,8.3,5,5,8,47,6,Sometimes,Full-time employed,TikTok,Male,Passing time/boredom,Moderate
+3.8,4,19,8,5.7,7,6,7,17,8,Never,Student,TikTok,Male,Entertainment,Good
+1.7,5,30,7,6.7,9,6,3,34,6,Every night,Full-time employed,YouTube,Male,Passing time/boredom,Good
+2.7,9,62,3,6.5,9,7,4,41,3,Never,Student,TikTok,Male,Entertainment,Moderate
+5.0,1,100,5,7.3,9,6,3,24,7,Every night,Part-time employed,TikTok,Male,Content creation,At-risk
+0.8,0,21,4,7.8,8,4,7,16,3,Every night,Student,Instagram,Female,Passing time/boredom,Good
+1.2,0,39,5,7.3,7,10,1,14,3,Every night,Student,Reddit,Male,Content creation,Moderate
+4.7,0,89,4,5.9,6,6,8,24,6,Every night,Self-employed,Instagram,Male,Passing time/boredom,At-risk
+1.5,4,47,2,6.9,10,7,1,22,3,Often,Full-time employed,Instagram,Male,Content creation,Good
+4.7,5,92,5,5.6,6,7,4,31,10,Often,Self-employed,Instagram,Male,Passing time/boredom,Moderate
+3.4,1,41,1,6.4,6,4,5,33,4,Often,Retired,TikTok,Female,Content creation,Moderate
+2.0,13,58,5,7.9,6,6,3,23,4,Never,Student,X/Twitter,Female,Entertainment,Moderate
+5.6,9,136,6,6.6,5,5,6,20,7,Often,Full-time employed,YouTube,Female,Entertainment,Moderate
+2.9,3,24,3,5.6,4,6,3,34,6,Every night,Unemployed,TikTok,Female,Connection with friends,Moderate
+5.1,6,73,5,7.4,9,4,4,13,8,Never,Part-time employed,Reddit,Female,Connection with friends,Moderate
+3.5,1,30,4,6.6,6,5,5,29,6,Every night,Full-time employed,Instagram,Male,Entertainment,Moderate
+3.4,6,82,10,7.8,7,5,3,29,4,Often,Full-time employed,TikTok,Male,Entertainment,Moderate
+2.5,9,67,4,8.7,10,8,4,20,6,Sometimes,Student,Instagram,Female,Entertainment,Moderate
+4.3,5,224,7,5.5,5,7,5,26,7,Every night,Student,YouTube,Female,Connection with friends,At-risk
+0.8,6,8,5,6.3,6,7,2,23,5,Often,Student,X/Twitter,Male,Connection with friends,Good
+0.9,6,30,1,6.9,10,6,6,37,6,Often,Part-time employed,TikTok,Female,Entertainment,Good
+1.6,3,38,3,7.3,8,6,4,25,3,Never,Part-time employed,TikTok,Female,Entertainment,Moderate
+6.3,4,58,3,,7,5,5,39,9,Every night,Student,TikTok,Prefer not to say,Connection with friends,Moderate
+3.8,6,45,6,5.9,10,7,5,31,3,Every night,Full-time employed,TikTok,Male,Entertainment,Moderate
+2.3,2,58,3,8.2,7,5,7,22,4,Sometimes,Student,YouTube,Female,Entertainment,At-risk
+2.5,1,18,4,5.8,6,6,9,22,5,Every night,Student,Instagram,Female,Work/career,Moderate
+1.3,3,18,1,7.0,9,8,1,25,2,Sometimes,Part-time employed,Instagram,Female,Connection with friends,Good
+2.1,4,38,5,7.6,6,6,3,31,6,Often,Part-time employed,X/Twitter,Female,Connection with friends,Good
+3.9,5,41,3,6.7,7,7,1,24,7,Sometimes,Self-employed,TikTok,Non-binary,Entertainment,Moderate
+2.4,1,59,3,6.6,7,8,6,33,3,Sometimes,Retired,TikTok,Female,Content creation,Good
+3.3,9,35,5,6.3,7,5,7,13,5,Every night,Full-time employed,TikTok,Male,News/information,Moderate
+1.4,12,44,1,8.0,7,6,5,29,3,Often,Student,YouTube,Male,Work/career,Moderate
+2.3,8,8,4,7.6,9,6,3,22,5,Never,Self-employed,Reddit,Male,Connection with friends,Moderate
+2.7,0,18,2,6.2,8,7,6,43,3,Often,Part-time employed,Instagram,Male,Content creation,Good
+6.1,0,92,5,6.2,7,4,6,27,9,Sometimes,Student,Facebook,Female,News/information,Good
+3.8,9,57,5,7.3,9,7,4,36,7,Never,Unemployed,Facebook,Male,Connection with friends,Moderate
+1.5,4,30,2,7.0,7,7,5,39,6,Often,Retired,TikTok,Female,Passing time/boredom,Good
+2.6,6,94,6,6.0,5,7,5,26,3,Every night,Part-time employed,LinkedIn,Male,News/information,Moderate
+4.1,0,74,4,6.7,6,6,3,31,3,Sometimes,Full-time employed,Instagram,Female,Work/career,At-risk
+1.3,6,29,3,7.9,8,5,6,35,1,Sometimes,Student,YouTube,Female,Entertainment,Moderate
+3.8,7,95,3,8.1,8,8,5,13,6,Sometimes,Full-time employed,Snapchat,Male,Passing time/boredom,Moderate
+7.1,0,304,8,7.1,3,4,7,31,7,Often,Full-time employed,Instagram,Female,News/information,Moderate
+2.2,3,72,9,7.6,6,5,1,13,3,Often,Full-time employed,LinkedIn,Female,Passing time/boredom,Moderate
+3.8,11,59,3,6.7,7,5,5,30,1,Often,Student,Instagram,Female,Work/career,Moderate
+2.4,1,62,5,6.4,6,6,8,18,5,Sometimes,Full-time employed,Instagram,Female,Content creation,Moderate
+2.5,3,83,4,8.2,10,5,5,41,7,Sometimes,Full-time employed,YouTube,Male,Entertainment,Good
+5.3,4,65,3,7.4,7,3,3,42,7,Never,Student,TikTok,Female,Entertainment,Moderate
+2.8,9,15,2,7.1,6,9,1,34,8,Sometimes,Full-time employed,Instagram,Male,Connection with friends,Good
+1.6,0,29,5,7.5,5,6,7,40,1,Every night,Self-employed,Reddit,Prefer not to say,News/information,Good
+2.6,0,16,2,6.9,6,6,2,21,8,Sometimes,Student,Snapchat,,Connection with friends,Moderate
+1.1,9,10,3,7.6,7,10,3,34,7,Often,Student,Instagram,Male,Content creation,Moderate
+3.5,0,64,5,7.2,10,2,3,43,1,Every night,Part-time employed,Instagram,Non-binary,Entertainment,Good
+1.4,4,33,4,6.7,6,2,5,24,2,Often,Student,Instagram,,Entertainment,Moderate
+1.0,3,8,1,7.8,10,7,7,42,7,Sometimes,Student,Reddit,Male,Passing time/boredom,Good
+1.8,14,31,2,,6,8,5,36,2,Often,Self-employed,TikTok,Male,Content creation,Moderate
+5.4,0,100,9,6.7,6,5,4,32,3,Never,Student,Facebook,Female,News/information,At-risk
+1.1,0,30,6,,10,5,5,32,5,Sometimes,Student,TikTok,Female,Work/career,Good
+3.0,9,44,1,5.7,10,8,3,22,5,Every night,Part-time employed,Instagram,Female,Entertainment,Moderate
+4.2,14,149,5,5.0,9,9,4,17,4,Every night,Full-time employed,Instagram,Female,Connection with friends,Moderate
+2.2,0,27,6,6.2,7,5,5,29,7,Every night,Unemployed,Reddit,Male,Connection with friends,Moderate
+5.3,1,21,5,6.8,5,5,8,20,5,Often,Full-time employed,TikTok,Female,Passing time/boredom,Moderate
+5.8,2,109,6,6.2,6,5,6,27,5,Every night,Self-employed,X/Twitter,Female,Entertainment,Moderate
+1.8,0,5,1,7.8,6,4,2,35,5,Sometimes,Part-time employed,TikTok,Female,Content creation,Moderate
+10.5,1,226,10,5.9,4,4,9,27,8,Sometimes,Part-time employed,Facebook,Female,Entertainment,Moderate
+1.5,6,21,1,8.1,7,8,3,22,5,Often,Full-time employed,TikTok,Male,Entertainment,Good
+3.1,2,17,7,7.0,8,7,3,44,4,Never,Full-time employed,YouTube,Female,Entertainment,Good
+0.5,11,10,3,7.8,8,3,3,21,3,Sometimes,Full-time employed,YouTube,Non-binary,Work/career,At-risk
+3.2,6,82,1,7.9,7,6,5,29,5,Often,Part-time employed,X/Twitter,Male,Entertainment,Moderate
+0.7,5,11,3,7.4,5,6,5,13,9,Sometimes,Self-employed,Instagram,Female,Passing time/boredom,Good
+1.9,4,10,2,7.7,7,9,8,26,6,Every night,Student,TikTok,Male,Passing time/boredom,Moderate
+1.6,4,25,5,7.0,9,10,2,20,4,Every night,Self-employed,Instagram,Male,Passing time/boredom,Moderate
+3.3,5,34,1,,8,6,1,32,7,Sometimes,Full-time employed,Instagram,Male,Connection with friends,Good
+6.0,1,26,5,5.5,5,7,5,25,7,Often,Student,Facebook,Male,Passing time/boredom,Moderate
+0.8,6,13,3,5.8,6,9,4,49,4,Every night,Self-employed,TikTok,Female,Connection with friends,Moderate
+1.7,7,20,6,5.7,6,3,2,22,6,Often,Part-time employed,YouTube,Female,News/information,Good
+3.4,0,11,7,5.8,8,8,5,35,8,Every night,Student,Instagram,Female,Content creation,Moderate
+1.7,5,56,3,7.8,7,7,2,19,5,Never,Full-time employed,YouTube,Female,Passing time/boredom,Moderate
+2.8,10,10,3,6.3,7,7,4,37,3,Sometimes,Full-time employed,YouTube,Female,Passing time/boredom,Moderate
+1.1,0,11,3,6.8,7,9,1,22,5,Every night,Self-employed,Reddit,Non-binary,Connection with friends,Moderate
+5.0,1,137,8,6.3,6,6,2,37,3,Sometimes,Full-time employed,Facebook,Non-binary,Entertainment,Moderate
+1.7,3,25,5,7.2,5,7,6,13,8,Sometimes,Retired,TikTok,Prefer not to say,Entertainment,Good
+3.6,4,46,1,5.7,7,5,2,21,7,Often,Student,Reddit,Female,Entertainment,Good
+4.3,6,64,7,5.7,8,6,6,31,5,Every night,Student,YouTube,Male,Entertainment,Moderate
+3.5,0,93,5,5.4,10,5,5,40,4,Every night,Full-time employed,X/Twitter,Female,Entertainment,Good
+3.5,0,51,5,5.6,4,9,6,23,5,Sometimes,Student,TikTok,Male,Entertainment,Moderate
+2.6,2,16,7,6.5,5,4,6,39,5,Sometimes,Full-time employed,TikTok,Female,Entertainment,Good
+2.3,7,22,5,7.9,7,8,5,18,8,Sometimes,Student,YouTube,Female,Entertainment,Good
+1.5,9,40,2,7.1,5,8,5,24,5,Every night,Self-employed,Instagram,Female,Entertainment,At-risk
+5.0,7,167,7,6.1,4,5,4,34,4,Sometimes,Full-time employed,YouTube,Female,Content creation,Moderate
+0.8,6,39,2,7.7,10,8,3,16,7,Sometimes,Full-time employed,Facebook,Male,Connection with friends,Moderate
+2.7,4,27,2,6.1,8,3,4,14,7,Every night,Retired,TikTok,Male,News/information,Good
+1.3,12,36,2,6.7,7,5,2,35,5,Every night,Student,Instagram,Male,Entertainment,Moderate
+4.8,0,105,5,5.6,6,7,5,15,8,Every night,Self-employed,X/Twitter,Male,Connection with friends,At-risk
+3.5,6,14,4,7.5,8,7,3,16,7,Every night,Retired,TikTok,Female,Connection with friends,Moderate
+6.4,0,149,9,5.9,9,6,2,45,7,Often,Student,TikTok,Male,Entertainment,Good
+2.9,8,28,3,6.9,6,7,1,35,7,Sometimes,Full-time employed,Instagram,Male,Connection with friends,Good
+2.6,10,59,8,6.2,7,9,6,31,4,Often,Student,X/Twitter,Female,Connection with friends,Moderate
+2.3,2,30,4,6.6,7,7,5,39,9,Every night,Full-time employed,TikTok,Male,Work/career,Good
+3.2,2,17,4,7.5,7,7,6,13,5,Sometimes,Full-time employed,TikTok,Male,Entertainment,Moderate
+1.5,8,10,4,8.1,6,6,3,21,7,Sometimes,Full-time employed,TikTok,Male,News/information,Good
+5.1,0,74,4,5.9,5,2,4,13,7,Often,Unemployed,X/Twitter,Male,Passing time/boredom,At-risk
+2.0,10,45,2,7.4,7,6,2,22,8,Sometimes,Part-time employed,Facebook,Male,Passing time/boredom,At-risk
+2.8,15,30,4,,9,4,8,30,8,Never,Student,X/Twitter,Male,Entertainment,Moderate
+3.4,1,33,5,7.1,7,7,6,18,7,Often,Student,Reddit,Male,Connection with friends,Good
+4.9,3,57,5,6.0,6,5,9,18,7,Often,Student,YouTube,Female,Connection with friends,Moderate
+5.2,8,140,9,6.6,5,9,7,16,4,Sometimes,Student,Instagram,Male,Entertainment,At-risk
+4.0,0,81,10,7.5,8,8,10,21,4,Sometimes,Student,TikTok,Male,Entertainment,Moderate
+0.9,0,5,1,6.1,6,2,2,25,5,Often,Student,YouTube,Male,Connection with friends,Good
+1.0,7,18,5,7.6,8,5,7,21,1,Often,Full-time employed,YouTube,Female,Work/career,Good
+2.3,5,17,5,7.8,6,6,6,33,3,Sometimes,Student,X/Twitter,Male,Passing time/boredom,Good
+3.7,1,94,4,7.1,8,3,4,17,5,Every night,Part-time employed,Instagram,Female,Entertainment,Moderate
+1.2,0,51,1,7.7,7,4,4,30,6,Every night,Student,YouTube,Male,Connection with friends,Moderate
+2.1,2,40,3,7.5,8,7,6,24,7,Often,Student,YouTube,Male,News/information,Moderate
+3.0,4,53,2,7.5,6,3,5,31,7,Sometimes,Self-employed,TikTok,Male,Entertainment,Moderate
+1.2,10,19,4,7.0,9,4,6,41,4,Often,Full-time employed,Instagram,Female,Connection with friends,Moderate
+5.5,5,15,5,8.0,5,7,7,31,7,Sometimes,Student,Facebook,Male,Work/career,At-risk
+0.9,10,28,2,6.5,8,6,5,19,6,Often,Student,TikTok,Female,Work/career,Moderate
+3.7,0,31,6,7.1,6,8,5,18,7,Every night,Student,YouTube,Female,Entertainment,Moderate
+4.4,0,72,4,7.5,8,4,4,38,6,Sometimes,Student,LinkedIn,Female,Passing time/boredom,Moderate
+1.0,2,40,3,8.7,10,7,5,40,3,Never,Unemployed,Facebook,Female,Connection with friends,Good
+5.9,4,18,7,6.4,5,7,5,34,7,Often,Retired,Reddit,Female,Entertainment,Moderate
+2.9,7,148,1,8.4,9,7,4,37,5,Sometimes,Full-time employed,YouTube,Female,News/information,Moderate
+3.7,5,33,2,7.4,8,8,7,30,3,Sometimes,Student,TikTok,Female,Work/career,Good
+7.5,0,94,6,6.4,5,3,8,22,3,Sometimes,Student,TikTok,Male,Entertainment,At-risk
+3.3,0,41,3,8.5,8,3,6,30,6,Often,Retired,TikTok,Female,Entertainment,Moderate
+2.2,6,87,6,6.7,8,5,2,40,4,Often,Unemployed,YouTube,Female,Connection with friends,Good
+6.1,1,140,6,7.1,6,5,7,18,4,Often,Retired,Reddit,Female,News/information,At-risk
+5.0,5,78,10,5.9,7,8,6,35,4,Never,Student,TikTok,Non-binary,Entertainment,Moderate
+0.4,10,11,5,8.5,8,9,2,24,4,Sometimes,Student,Instagram,Male,Passing time/boredom,Moderate
+2.9,1,59,8,8.4,6,7,6,31,3,Never,Self-employed,Facebook,Male,Connection with friends,Moderate
+5.5,0,93,5,6.9,4,6,4,22,7,Sometimes,Full-time employed,Facebook,Female,Passing time/boredom,Moderate
+1.4,14,16,1,,9,6,6,34,4,Often,Part-time employed,Instagram,Male,Entertainment,Moderate
+6.2,0,93,7,5.6,6,5,9,36,4,Every night,Student,Instagram,Female,Work/career,At-risk
+4.4,5,67,7,7.2,5,5,3,31,6,Sometimes,Student,Facebook,Female,Passing time/boredom,Moderate
+3.1,8,22,2,7.1,8,6,5,21,9,Never,Student,Instagram,Male,Entertainment,Good
+2.1,11,56,4,7.9,5,10,4,22,5,Sometimes,Student,TikTok,Female,News/information,Moderate
+1.9,11,44,1,8.7,10,6,4,28,5,Sometimes,Self-employed,Instagram,Male,News/information,Moderate
+1.8,1,11,6,6.3,8,6,6,41,6,Never,Part-time employed,TikTok,Female,Content creation,Good
+3.1,8,121,6,7.2,8,8,6,49,8,Never,Unemployed,X/Twitter,Male,Entertainment,Moderate
+6.7,0,57,4,6.8,9,1,4,33,8,Often,Student,TikTok,Female,Passing time/boredom,At-risk
+2.1,10,21,2,6.6,9,2,2,19,6,Every night,Student,LinkedIn,Female,Connection with friends,At-risk
+1.4,0,32,5,7.6,5,6,2,35,3,Sometimes,Student,TikTok,Female,Entertainment,Moderate
+5.4,1,80,2,6.6,5,3,8,24,10,Often,Student,Instagram,Female,Passing time/boredom,Moderate
+0.8,4,11,4,6.9,10,6,2,31,1,Sometimes,Full-time employed,TikTok,Male,Entertainment,Good
+0.5,4,5,6,6.9,8,7,7,43,1,Often,Unemployed,YouTube,Male,Content creation,Good
+2.2,5,56,4,6.9,8,6,2,29,5,Often,Full-time employed,Instagram,Female,Connection with friends,Good
+1.6,7,34,1,6.3,9,8,7,25,9,Never,Retired,YouTube,Male,Entertainment,Good
+2.7,3,35,7,5.8,9,3,4,18,7,Every night,Full-time employed,Instagram,Female,Connection with friends,Moderate
+9.3,0,78,9,5.7,6,7,6,36,8,Often,Full-time employed,X/Twitter,Male,Entertainment,At-risk
+3.7,6,74,5,5.7,9,9,7,16,4,Every night,Unemployed,TikTok,Non-binary,Entertainment,Moderate
+0.7,12,5,2,7.2,7,3,2,21,1,Often,Full-time employed,TikTok,Male,News/information,Moderate
+3.0,0,14,5,7.6,8,5,3,36,6,Sometimes,Student,Facebook,Male,Entertainment,At-risk
+1.7,7,17,5,7.5,9,7,1,31,3,Sometimes,Unemployed,Reddit,Female,Entertainment,Good
+2.3,7,31,7,6.2,8,9,4,35,3,Often,Full-time employed,Instagram,Female,Entertainment,Moderate
+1.3,6,46,2,7.6,4,5,1,31,2,Sometimes,Student,Instagram,Female,News/information,Good
+3.1,6,38,2,6.5,8,8,5,37,6,Often,Student,X/Twitter,Male,Connection with friends,Good
+0.2,7,6,6,8.1,9,7,2,39,8,Never,Unemployed,Snapchat,Male,Work/career,Good
+2.3,5,20,1,6.4,4,7,5,30,2,Often,Full-time employed,Reddit,Female,Connection with friends,Moderate
+3.1,11,52,5,7.5,6,3,5,43,4,Sometimes,Student,Reddit,Female,Passing time/boredom,Moderate
+1.0,8,30,1,8.0,10,4,4,21,6,Sometimes,Self-employed,Instagram,Male,Content creation,Good
+3.4,0,87,6,4.2,6,10,5,13,6,Every night,Student,Instagram,Female,Entertainment,At-risk
+4.4,11,9,3,5.8,6,1,7,27,9,Often,Student,Instagram,Female,Connection with friends,Moderate
+2.2,4,59,4,7.8,7,4,5,31,2,Sometimes,Student,TikTok,Female,Connection with friends,Good
+0.9,3,11,5,8.0,9,4,3,34,6,Never,Student,Instagram,Male,Entertainment,Moderate
+2.9,8,24,4,6.0,7,7,6,26,5,Every night,Student,Instagram,Male,Work/career,Moderate
+3.2,0,29,4,7.3,8,6,7,31,5,Sometimes,Student,Instagram,,Connection with friends,Moderate
+3.3,2,55,2,6.6,3,9,7,23,7,Often,Full-time employed,YouTube,Female,News/information,Moderate
+1.5,3,7,5,,5,8,4,27,6,Every night,Full-time employed,X/Twitter,Female,Connection with friends,At-risk
+2.3,5,60,7,7.1,5,7,6,29,3,Often,Full-time employed,TikTok,Male,Work/career,Good
+4.1,1,11,5,6.0,6,7,8,36,6,Every night,Self-employed,Snapchat,Male,Entertainment,Moderate
+4.2,11,126,4,6.8,8,5,6,36,6,Often,Self-employed,TikTok,Male,Entertainment,Moderate
+3.6,6,45,7,7.7,6,8,5,41,4,Never,Unemployed,X/Twitter,Male,Passing time/boredom,At-risk
+4.5,5,83,3,7.2,8,5,7,30,8,Never,Student,Instagram,Female,Entertainment,Moderate
+2.6,7,47,3,6.9,6,4,6,27,6,Every night,Part-time employed,Snapchat,Female,Work/career,Moderate
+3.7,0,43,3,6.3,6,5,4,26,1,Sometimes,Student,X/Twitter,Male,Content creation,Good
+9.6,0,180,6,6.6,5,7,10,13,8,Sometimes,Self-employed,X/Twitter,Male,Connection with friends,At-risk
+2.1,3,44,4,6.4,8,6,5,20,8,Often,Full-time employed,YouTube,Male,Entertainment,Moderate
+2.7,0,25,4,6.6,8,5,3,31,10,Often,Full-time employed,Facebook,Male,Entertainment,Moderate
+4.3,2,79,9,7.3,8,9,6,32,4,Sometimes,Part-time employed,Reddit,Male,Connection with friends,At-risk
+5.9,0,50,5,6.7,4,6,4,37,5,Sometimes,Student,Instagram,,Entertainment,Moderate
+3.8,5,47,3,6.5,6,7,7,22,5,Every night,Student,Instagram,Female,Entertainment,At-risk
+1.3,6,34,1,7.5,8,6,4,49,6,Every night,Full-time employed,TikTok,Male,Passing time/boredom,Good
+3.4,3,126,5,6.0,7,4,5,30,6,Every night,Student,Facebook,Male,Entertainment,Moderate
+3.8,6,17,2,7.9,10,7,5,32,7,Never,Unemployed,YouTube,Male,Passing time/boredom,Good
+2.7,9,40,8,6.3,8,7,6,25,6,Sometimes,Unemployed,Instagram,Female,Entertainment,Moderate
+3.3,5,31,2,7.1,9,10,6,23,5,Sometimes,Retired,LinkedIn,Male,Content creation,Moderate
+4.5,0,144,2,6.6,8,3,6,38,1,Sometimes,Student,Snapchat,Female,Connection with friends,Good
+4.3,0,101,7,7.5,5,7,4,25,7,Sometimes,Full-time employed,TikTok,Male,Entertainment,Good
+4.3,2,101,4,7.9,7,4,5,20,2,Sometimes,Full-time employed,TikTok,Female,Passing time/boredom,Moderate
+2.0,8,47,3,7.7,7,7,6,13,6,Never,Part-time employed,YouTube,Male,Passing time/boredom,Good
+2.8,2,28,4,7.1,6,6,4,47,6,Every night,Student,Instagram,Male,Entertainment,Good
+1.2,0,13,7,6.7,9,8,2,13,6,Sometimes,Student,Instagram,,Passing time/boredom,Moderate
+4.7,0,132,4,6.1,8,7,5,28,8,Often,Retired,TikTok,Male,Entertainment,Moderate
+2.4,0,13,8,6.4,9,8,8,18,6,Every night,Student,Instagram,Male,Entertainment,Moderate
+3.6,4,29,4,5.0,7,5,9,28,3,Every night,Full-time employed,YouTube,Female,Entertainment,Good
+2.2,3,12,4,7.1,7,5,6,22,5,Every night,Student,TikTok,Male,Passing time/boredom,Moderate
+8.7,0,26,8,5.8,6,6,10,24,9,Often,Unemployed,Instagram,Male,Connection with friends,At-risk
+1.0,7,41,6,6.0,8,8,8,43,3,Sometimes,Full-time employed,X/Twitter,Female,Connection with friends,Moderate
+3.1,6,82,7,6.8,6,5,5,37,4,Every night,Student,YouTube,Female,Entertainment,Good
+2.1,6,20,2,8.2,7,5,4,31,3,Sometimes,Full-time employed,TikTok,Female,Passing time/boredom,Good
+4.0,8,17,2,6.8,4,8,5,31,3,Never,Full-time employed,Instagram,Male,Entertainment,Moderate
+2.0,10,51,1,7.7,6,6,2,38,4,Every night,Student,Snapchat,Female,Entertainment,Moderate
+9.7,0,146,6,5.9,3,3,6,47,10,Sometimes,Full-time employed,YouTube,Male,Entertainment,Moderate
+1.6,2,21,6,8.2,6,8,1,31,6,Sometimes,Self-employed,TikTok,Female,Passing time/boredom,Moderate
+3.6,1,23,5,,5,6,5,32,4,Often,Student,Instagram,Female,Content creation,Moderate
+2.0,5,68,3,8.0,9,5,7,23,6,Sometimes,Student,Instagram,Male,Connection with friends,Good
+2.7,2,75,3,7.5,6,5,5,31,5,Sometimes,Full-time employed,Instagram,Female,Entertainment,Good
+2.9,3,10,6,7.3,8,5,5,19,3,Every night,Student,YouTube,Male,News/information,Moderate
+3.3,2,91,2,7.5,6,6,8,18,4,Sometimes,Full-time employed,X/Twitter,Male,Content creation,Moderate
+6.0,0,61,7,6.4,5,8,9,26,6,Every night,Student,Instagram,Female,Entertainment,At-risk
+4.7,9,146,7,5.9,4,5,7,30,4,Every night,Student,TikTok,Female,Connection with friends,Moderate
+4.7,7,167,4,8.1,4,6,5,28,6,Never,Student,Snapchat,Male,News/information,Moderate
+3.1,8,210,5,6.5,6,6,5,39,3,Never,Full-time employed,TikTok,Male,Connection with friends,Moderate
+2.2,10,73,6,8.0,5,3,5,21,3,Sometimes,Student,TikTok,Female,Connection with friends,Moderate
+0.9,8,25,4,8.0,7,6,7,16,1,Never,Student,YouTube,Male,Connection with friends,Good
+5.6,3,84,4,6.3,6,5,6,32,8,Often,Full-time employed,Instagram,Male,Connection with friends,At-risk
+3.3,1,118,8,5.5,7,8,4,31,4,Sometimes,Student,TikTok,Male,Entertainment,Moderate
+1.4,1,46,4,6.6,8,7,1,28,1,Often,Unemployed,X/Twitter,Female,Content creation,Good
+5.1,7,241,5,6.9,7,5,5,16,7,Sometimes,Student,TikTok,Male,Content creation,Moderate
+1.4,0,18,3,6.6,8,9,5,25,5,Every night,Retired,YouTube,Female,Passing time/boredom,Good
+3.9,0,187,5,7.5,7,4,6,13,6,Sometimes,Part-time employed,Instagram,Male,Connection with friends,Good
+2.6,8,48,2,7.1,9,8,5,32,6,Sometimes,Student,TikTok,Male,Entertainment,Moderate
+1.7,9,5,8,7.3,7,8,2,29,9,Sometimes,Retired,YouTube,Female,Connection with friends,Good
+5.0,4,42,6,6.0,8,6,4,25,6,Often,Unemployed,Facebook,Prefer not to say,Passing time/boredom,At-risk
+1.4,6,53,3,7.7,5,4,4,13,2,Sometimes,Retired,Instagram,Male,Entertainment,At-risk
+2.5,0,28,3,7.8,5,4,5,26,2,Often,Student,Reddit,Male,Entertainment,Moderate
+3.0,4,5,6,6.8,7,7,6,30,4,Never,Student,LinkedIn,Male,Entertainment,Good
+2.4,9,32,2,7.8,6,8,6,28,7,Often,Full-time employed,Reddit,Female,Content creation,Good
+2.2,5,40,4,8.4,10,7,3,30,4,Never,Student,YouTube,Male,Entertainment,Good
+1.9,4,28,2,6.9,8,6,7,34,4,Never,Self-employed,X/Twitter,Male,Passing time/boredom,Good
+1.8,10,20,5,7.5,5,8,3,38,3,Often,Student,TikTok,Female,Entertainment,Moderate
+3.4,0,136,5,7.7,6,8,6,32,3,Every night,Full-time employed,Instagram,Male,Connection with friends,Moderate
+2.2,8,71,8,6.8,5,4,5,25,1,Every night,Student,X/Twitter,Female,News/information,Moderate
+2.3,0,51,6,7.3,7,5,3,43,1,Sometimes,Part-time employed,YouTube,Male,Connection with friends,Moderate
+1.3,8,28,1,6.4,6,3,4,26,4,Every night,Full-time employed,Instagram,Female,Entertainment,Moderate
+2.6,0,25,4,7.9,6,7,5,38,7,Never,Student,Instagram,Male,Entertainment,Good
+2.6,4,50,4,6.7,10,8,4,37,9,Often,Student,Instagram,Male,Work/career,Moderate
+1.7,1,26,5,6.9,9,6,4,24,6,Sometimes,Student,X/Twitter,Male,Passing time/boredom,Good
+6.2,7,20,8,4.9,4,5,5,33,7,Often,Full-time employed,Instagram,Female,Connection with friends,Moderate
+3.7,3,87,5,7.8,4,5,3,19,5,Never,Self-employed,TikTok,Female,News/information,Good
