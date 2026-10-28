@@ -1,0 +1,25 @@
+{
+  "features": [
+    "daily_screen_hours",
+    "low_mood_score_0to27",
+    "daily_notifications",
+    "fomo_1to10",
+    "avg_sleep_hours",
+    "life_satisfaction_1to10",
+    "self_esteem_1to10",
+    "loneliness_1to10",
+    "Age",
+    "social_comparison_1to10",
+    "night_time_use",
+    "occupation",
+    "most_used_platform",
+    "Gender",
+    "primary_purpose"
+  ],
+  "target": "wellbeing_band",
+  "classes": [
+    "At-risk",
+    "Good",
+    "Moderate"
+  ]
+}
