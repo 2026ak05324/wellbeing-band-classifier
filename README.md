@@ -21,7 +21,7 @@ Heavy social media and screen-time use is linked to anxiety, low mood, poor slee
 
 - **Excluded feature - target leakage:** `anxiety_score_0to27` is the single strongest feature, but the class bands follow it almost exactly (Good: scores 0-9, Moderate: about 10-16, At-risk: about 17 and above). Including it lets a decision tree reach 100% on every metric, which says nothing about real predictive ability. It is therefore **excluded by default**. Running `python train.py --source <full_csv> --include-anxiety` reproduces the version with it.
 - **Preprocessing (inside each saved pipeline):** median imputation + standard scaling for numeric features (12 missing `avg_sleep_hours` values); most-frequent imputation + one-hot encoding for categorical features (7 missing `Gender` values). Because preprocessing is saved with each model, the app accepts the raw CSV.
-- **Train/test split:** stratified 80/20, giving 480 training rows and **120 test rows** (Moderate 65, Good 39, At-risk 16), saved as `test_data.csv`.
+- **Train/test split:** stratified, giving **500 training rows** and **100 test rows** (Moderate 54, Good 32, At-risk 14), saved as `test_data.csv`.
 - **Metric averaging:** Precision, Recall and F1 are macro-averaged over the three classes; AUC is one-vs-rest, macro-averaged, computed from predicted probabilities; MCC is the multiclass version.
 
 ## c. GitHub Repository Link
@@ -34,8 +34,8 @@ project-folder/
 |-- train.py                data sampling, training, evaluation
 |-- requirements.txt
 |-- README.md
-|-- test_data.csv           120-row test set (15 features + target)
-|-- train_data.csv          480-row training set
+|-- test_data.csv           100-row test set (15 features + target)
+|-- train_data.csv          500-row training set
 |-- dataset_600.csv         the 600-row sample
 |-- model/
 |   |-- logistic_regression.joblib
@@ -49,27 +49,27 @@ project-folder/
 
 ## d. Models Used
 
-All five models are trained on the same 480-row training set and evaluated on the same 120-row test set: Logistic Regression (max_iter=2000), Decision Tree (max_depth=5), KNN (k=7), Gaussian Naive Bayes, and SVM (RBF kernel, probability=True).
+All five models are trained on the same 500-row training set and evaluated on the same 100-row test set: Logistic Regression (max_iter=2000), Decision Tree (max_depth=5), KNN (k=7), Gaussian Naive Bayes, and SVM (RBF kernel, probability=True).
 
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 |---|---|---|---|---|---|---|
-| Logistic Regression | 0.5500 | 0.7029 | 0.6026 | 0.5188 | 0.5484 | 0.1967 |
-| Decision Tree | 0.5750 | 0.7192 | 0.5605 | 0.5267 | 0.5374 | 0.2645 |
-| KNN | 0.5917 | 0.6803 | 0.6046 | 0.5335 | 0.5550 | 0.2785 |
-| Naive Bayes | 0.5500 | 0.6880 | 0.5341 | 0.5065 | 0.5179 | 0.2079 |
-| Support Vector Machine | 0.5750 | 0.7164 | 0.7105 | 0.4208 | 0.4158 | 0.1862 |
+| Logistic Regression | 0.5300 | 0.7252 | 0.5779 | 0.4924 | 0.5201 | 0.1686 |
+| Decision Tree | 0.5400 | 0.7026 | 0.5665 | 0.5113 | 0.5281 | 0.2141 |
+| KNN | 0.5600 | 0.6500 | 0.5699 | 0.5103 | 0.5266 | 0.2371 |
+| Naive Bayes | 0.5500 | 0.7011 | 0.5351 | 0.5047 | 0.5170 | 0.2113 |
+| Support Vector Machine | 0.5700 | 0.7391 | 0.7056 | 0.4204 | 0.4165 | 0.1797 |
 
 ### Observations on model performance
 
 | ML Model Name | Observation about model performance |
 |---|---|
-| Logistic Regression | Accuracy 0.55 and AUC 0.70 are modest, which suggests the classes are only partly linearly separable once the anxiety score is removed. It was the best at spotting the minority At-risk class (recall 0.50), but weak on Good (0.41). It was the most stable model in 5-fold cross-validation on the 600 rows (accuracy 0.58, macro-F1 0.50). |
-| Decision Tree | Highest AUC (0.719) and second-highest MCC (0.265). A depth-5 tree captures non-linear effects of screen time and notifications and is easy to interpret, but it missed most At-risk cases (recall 0.38). Cross-validated accuracy (0.58) matches Logistic Regression. |
-| KNN | Best accuracy (0.592), F1 (0.555) and MCC (0.279) on the test split, with reasonable recall on the two larger classes (Moderate 0.66, Good 0.56) but weaker At-risk recall (0.38). Its AUC (0.680) is the lowest because k=7 gives coarse probability estimates, and its cross-validated accuracy (0.55) is lower than on this particular test split, so part of its lead is likely luck. |
-| Naive Bayes | Weakest overall in cross-validation (accuracy 0.51, MCC 0.17). The independence assumption is violated because anxiety-related scores, loneliness, self-esteem and life satisfaction are correlated, and one-hot features are not Gaussian. It is fast and has fairly even recall across classes (At-risk 0.44, Good 0.44, Moderate 0.65), but it never leads on any metric. |
-| Support Vector Machine | Highest precision (0.711) but the lowest recall (0.421), F1 (0.416) and MCC (0.186). It recognises only 1 of 16 At-risk cases (recall 0.06) and mostly predicts Moderate, the majority class, so the high precision is misleading. Without class weighting or tuning it is a poor fit for this imbalanced problem. |
+| Logistic Regression | Second-highest AUC (0.725) but the lowest accuracy (0.53) and MCC (0.169), so it ranks classes reasonably well but its hard predictions are weak, which suggests the classes are only partly linearly separable once the anxiety score is removed. Recall was 0.43 for At-risk, 0.44 for Good and 0.61 for Moderate. It was the most stable model in 5-fold cross-validation on the 600 rows (accuracy 0.58, macro-F1 0.50). |
+| Decision Tree | Best macro-F1 (0.528) and second-best MCC (0.214) on the test set, with At-risk recall of 0.43 and Good recall of 0.53. A depth-5 tree captures non-linear effects of screen time and notifications and is easy to interpret. It also did best on MCC in cross-validation (0.25, accuracy 0.58), so its test result is consistent. Its AUC (0.703) is only middling because tree probabilities are coarse. |
+| KNN | Best MCC (0.237) on the test set and nearly tied for best F1 (0.527), with recall of 0.61 for Moderate and 0.56 for Good but only 0.36 for At-risk. Its AUC (0.650) is the lowest because k=7 gives coarse probability estimates. Its cross-validated accuracy (0.55) is the lowest of the top models, so part of its test lead is likely luck. |
+| Naive Bayes | Accuracy 0.55 and MCC 0.211 are competitive on this split, but it was the weakest model in cross-validation (accuracy 0.51, MCC 0.17). The independence assumption is violated because loneliness, self-esteem, life satisfaction and FOMO are correlated, and one-hot features are not Gaussian. It is fast and has fairly even recall (At-risk 0.43, Good 0.44, Moderate 0.65). |
+| Support Vector Machine | Highest accuracy (0.57), AUC (0.739) and precision (0.706), but the lowest recall (0.420), F1 (0.417) and MCC (0.180). It predicted At-risk only once in 100 rows (recall 0.07) and labelled 77 rows Moderate, the majority class, so the high precision is misleading. Without class weighting or tuning it is a poor fit for this imbalanced problem. |
 
-**Overall winner for this dataset: KNN** - it has the best Accuracy, F1 and MCC on the held-out test set. The margin is small, though: the test set has only 120 rows (16 At-risk), and in 5-fold cross-validation Logistic Regression and Decision Tree score as well or better. All five models land between 0.55 and 0.59 accuracy, so no model is clearly superior here.
+**Overall winner for this dataset: Decision Tree** - it has the best macro-F1 on the held-out test set, the second-best MCC, and the best cross-validated MCC, so its performance is consistent across both checks and it is interpretable. The margin is small: KNN has the highest test MCC, and the SVM has the highest accuracy and AUC but misses nearly all At-risk cases. All five models land between 0.53 and 0.57 accuracy, so no model is clearly superior here, and with only 100 test rows (14 At-risk) differences of a few points are within noise.
 
 Caveat: this is a 600-row sample and the relationship between the remaining features and wellbeing band is weak, which limits every model.
 
