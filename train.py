@@ -106,7 +106,7 @@ def main():
     sample = sample.reset_index(drop=True)
     sample.to_csv(out / "dataset_600.csv", index=False)
 
-    train, test = train_test_split(sample, test_size=0.2, stratify=sample[TARGET],
+    train, test = train_test_split(sample, test_size=100, stratify=sample[TARGET],
                                    random_state=SEED)
     train.to_csv(out / "train_data.csv", index=False)
     test.to_csv(out / "test_data.csv", index=False)
